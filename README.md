@@ -2,7 +2,7 @@
 
 Language C++ concepts  Data Structures
 
-##Concepts:
+## Concepts:
 
 1. Array
 2. Linklist
